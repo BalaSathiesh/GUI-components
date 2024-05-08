@@ -133,7 +133,8 @@ activity_main.xml
 ```
 
 ## OUTPUT
-![image](https://github.com/BalaSathiesh/GUI-components/assets/128462891/bc133807-37bf-44f2-b777-9ea737c9e2b8)![image](https://github.com/BalaSathiesh/GUI-components/assets/128462891/d30ab773-0fd2-43fb-96a3-f2e5ceb82e80)
+![image](https://github.com/BalaSathiesh/GUI-components/assets/128462891/b4aa3dc3-abd0-4bf5-aba0-1d5cdaeb2544)
+![image](https://github.com/BalaSathiesh/GUI-components/assets/128462891/d30ab773-0fd2-43fb-96a3-f2e5ceb82e80)
 
 
 
